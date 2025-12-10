@@ -17,16 +17,16 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId></ModId>
-    <Version>1.0.0.0</Version>
+    <ModId>127797</ModId>
+    <Version>0.0.1</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Write Everywhere Module Model Project</DisplayName>
-    <ShortDescription>Module to use along CS2 version of the mod Write Everywhere</ShortDescription>
-    <ForumLink></ForumLink>
-    <GitHubLink></GitHubLink>
+    <DisplayName>UK Signs Pack [Write Everywhere]</DisplayName>
+    <ShortDescription>UK Signs Pack based on Write Everywhere</ShortDescription>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/baipin-uk-signs-pack-write-everywhere.1887340/</ForumLink>
+    <GitHubLink>https://github.com/baipin/CS2-UKSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
-    <KofiLink></KofiLink>
+    <KofiLink>https://ko-fi.com/baipin</KofiLink>
     <BMACLink></BMACLink>
     <CrowdinLink></CrowdinLink>
     <TwitterLink></TwitterLink>
