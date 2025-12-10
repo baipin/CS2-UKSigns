@@ -30,7 +30,7 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 4️⃣Click the structure you want to edit.  
 5️⃣Click Import layout from XML at root...  
 6️⃣Choose the puzzle-piece icon (Templates from mods).  
-7️⃣Search for the "baipinHongKongsigns" Mod.  
+7️⃣Search for the "baipinUKS" Mod.  
 8️⃣Select a layout and customize it to your liking.  
 
 ## Customize and Save Signs
