@@ -1,2 +1,2 @@
-#  v0.0.1
-- Modid Got.
+#  v0.0.2
+- Add main contents.
