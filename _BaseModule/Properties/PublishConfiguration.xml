@@ -32,7 +32,7 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 4️⃣Click the structure you want to edit.  
 5️⃣Click Import layout from XML at root...  
 6️⃣Choose the puzzle-piece icon (Templates from mods).  
-7️⃣Search for the "baipinHongKongsigns" Mod.  
+7️⃣Search for the "baipinUKS" Mod.  
 8️⃣Select a layout and customize it to your liking.  
 
 ## Customize and Save Signs
@@ -50,16 +50,23 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-uk-signs-pack-write-everywhere.1887340/" />
-  <ModVersion Value="0.0.2" />
+  <ModVersion Value="0.0.3" />
   <GameVersion Value="1.*" />
-  <ChangeLog>#  v0.0.2
-- Add main contents.</ChangeLog>
+  <ChangeLog>#  v0.0.3
+### Added
+- Pre-layouts for direction signs in different colors.
+- Guide screenshot on how to change color and shape.
+- Small marks for British Railway.
+
+### Optimized
+- Rename some additional information image to standardized.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\1.jpg" />
   <Screenshot Value="Screenshots\2.jpg" />
   <Screenshot Value="Screenshots\3.jpg" />
   <Screenshot Value="Screenshots\4.jpg" />
   <Screenshot Value="Screenshots\5.jpg" />
+  <Screenshot Value="Screenshots\6.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/CS2-UKSigns" />
   <ExternalLink Type="kofi" Url="https://ko-fi.com/baipin" />
