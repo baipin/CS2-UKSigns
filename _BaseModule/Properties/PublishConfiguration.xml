@@ -50,16 +50,11 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-uk-signs-pack-write-everywhere.1887340/" />
-  <ModVersion Value="0.0.3" />
+  <ModVersion Value="0.0.4" />
   <GameVersion Value="1.*" />
-  <ChangeLog>#  v0.0.3
-### Added
-- Pre-layouts for direction signs in different colors.
-- Guide screenshot on how to change color and shape.
-- Small marks for British Railway.
-
-### Optimized
-- Rename some additional information image to standardized.</ChangeLog>
+  <ChangeLog>#  v0.0.4
+### Hot fixed
+- the problem that small marks for British Railway is too big.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\1.jpg" />
   <Screenshot Value="Screenshots\2.jpg" />
