@@ -1,3 +1,3 @@
-#  v0.0.4
-### Hot fixed
-- the problem that small marks for British Railway is too big.
+#  v0.0.5
+### Fixed
+- The problem that the signs will not rendered by default according to Write Everywhere new change. This version fixed the problem by setting "enable rendering backface" specifically.

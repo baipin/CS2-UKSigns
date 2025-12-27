@@ -10,7 +10,7 @@
       <arraySpacing x="0" y="0" z="0" />
     </transform>
     <whiteMesh />
-    <defaultStyle>
+    <defaultStyle renderBackface="true">
       <color>1A1A1AFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -38,7 +38,7 @@
         <text>DRIVE ATTENTIVELY</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFEF14FF</color>
         <emissiveColor>FFEF14FF</emissiveColor>
         <metallic>0</metallic>
@@ -67,7 +67,7 @@
         <text>DO NOT USE PHONE</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFEF14FF</color>
         <emissiveColor>FFEF14FF</emissiveColor>
         <metallic>0</metallic>
@@ -96,7 +96,7 @@
         <text>專注駕駛 勿用手機</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFEF14FF</color>
         <emissiveColor>FFEF14FF</emissiveColor>
         <metallic>0</metallic>
