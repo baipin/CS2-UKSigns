@@ -1,3 +1,5 @@
-#  v0.0.5
+#  v0.0.6
+### Added
+- Layouts for micro signs attached to "Highway Sign Frame Pack".
 ### Fixed
-- The problem that the signs will not rendered by default according to Write Everywhere new change. This version fixed the problem by setting "enable rendering backface" specifically.
+- The problem that the lane signal layouts don't match "Highway Sign Frame Pack".
