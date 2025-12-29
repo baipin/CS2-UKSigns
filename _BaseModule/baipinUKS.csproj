@@ -18,14 +18,14 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>127797</ModId>
-    <Version>0.0.6</Version>
+    <Version>0.0.9</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>UK Signs Pack [Write Everywhere]</DisplayName>
     <ShortDescription>UK Signs Pack based on Write Everywhere</ShortDescription>
     <ForumLink>https://forum.paradoxplaza.com/forum/threads/baipin-uk-signs-pack-write-everywhere.1887340/</ForumLink>
     <GitHubLink>https://github.com/baipin/CS2-UKSigns</GitHubLink>
-    <YoutubeLink></YoutubeLink>
+    <YoutubeLink>https://youtu.be/F7t5pGg3YiE</YoutubeLink>
     <KofiLink>https://ko-fi.com/baipin</KofiLink>
     <BMACLink></BMACLink>
     <CrowdinLink></CrowdinLink>

@@ -11,7 +11,7 @@
     </transform>
     <imageMesh atlas="baipinUKS:NoSigns">
       <mesh></mesh>
-      <image>NoPedestriansBikes</image>
+      <image>NoPedestrians</image>
     </imageMesh>
     <defaultStyle renderBackface="true">
       <color>FFFFFFFF</color>
